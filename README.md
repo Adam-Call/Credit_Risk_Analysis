@@ -7,12 +7,18 @@ First model will be trying to oversample the data using the _RandomOverSampler_ 
 
 ## Results
 
-- Random oversampling
-- SMOTE oversampling
-- undersampling
-- smoteen
-- random forest
-- ensemble
+- ![random_sampling](https://user-images.githubusercontent.com/80363261/125189004-c8fd0c80-e1fb-11eb-8c0c-49e2ff12ebda.png)
+
+- ![smote_sampling](https://user-images.githubusercontent.com/80363261/125189010-ce5a5700-e1fb-11eb-9d69-84ddb9b4f306.png)
+
+- ![undersampling](https://user-images.githubusercontent.com/80363261/125189014-d31f0b00-e1fb-11eb-9190-3de16377ade1.png)
+
+- ![smoteen](https://user-images.githubusercontent.com/80363261/125189019-d7e3bf00-e1fb-11eb-8f37-a447eced821d.png)
+
+- ![random_forest](https://user-images.githubusercontent.com/80363261/125189024-dc0fdc80-e1fb-11eb-8c7f-5e880db3d639.png)
+
+- ![ensemble](https://user-images.githubusercontent.com/80363261/125189026-e03bfa00-e1fb-11eb-9592-9fe7342580c7.png)
+
 
 ## Summary
 
